@@ -1,0 +1,31 @@
+names:
+- apple
+- banana
+- carambola
+- cherry
+- dragon fruit
+- grape
+- guava
+- kiwi
+- lemon
+- mango
+- mulberries
+- orange
+- papaya
+- passion_fruit
+- peach
+- pear
+- pineapple
+- strawberry
+- tomato
+- watermelon
+nc: 20
+roboflow:
+  license: CC BY 4.0
+  project: fruit-n1rgn
+  url: https://universe.roboflow.com/fruitdetection-sboxl/fruit-n1rgn/dataset/2
+  version: 2
+  workspace: fruitdetection-sboxl
+test: /content/fruit-2/test/images
+train: /content/fruit-2/train/images
+val: /content/fruit-2/valid/images
